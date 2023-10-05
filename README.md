@@ -1,7 +1,7 @@
-# AS Flipcard
+# AS KPI Ticker
 ![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-kpi-ticker) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-kpi-ticker) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-kpi-ticker) [![Github All Releases](https://img.shields.io/github/downloads/andressousa/as-qliksense-kpi-ticker/total.svg)]()
 
-AS Flipcard is a visualization extension for Qlik Sense to display a flipcard that holds two master items.
+AS KPI Ticker is a visualization extension for Qlik Sense to display a carousel that holds two master items.
 
 ![](https://raw.githubusercontent.com/andressousa/as-qliksense-kpi-ticker/main/as-qliksense-kpi-ticker/preview.png)
 
