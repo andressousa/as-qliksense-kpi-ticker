@@ -3,8 +3,6 @@
 
 AS KPI Ticker is a visualization extension for Qlik Sense to display a carousel that holds two master items.
 
-![](https://raw.githubusercontent.com/andressousa/as-qliksense-kpi-ticker/main/as-qliksense-kpi-ticker/preview.png)
-
 ## Instructions
 
                 
