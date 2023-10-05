@@ -1,0 +1,2 @@
+# as-qliksense-kpi-ticker
+ 

@@ -1,0 +1,16 @@
+{
+	"name": "AS KPI Ticker",
+	"description": "AS KPI Ticker is a visualization extension for Qlik Sense to display a ticker.",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "André Sousa",
+	"homepage": "https://www.linkedin.com/in/andresantossousa/",
+	"keywords": "qlik-sense, visualization, flipcard",
+	"preview": "preview.png",
+	"license": "The MIT License (MIT)",
+	"repository": "https://github.com/andressousa/as-qliksense-kpi-ticker",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
